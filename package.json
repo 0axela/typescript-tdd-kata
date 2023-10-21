@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/jest": "^24.9.1",
     "@types/node": "^12.12.47",
-    "jest": "^26.0.1",
+    "jest": "^26.6.3",
     "ts-jest": "^26.1.0",
     "ts-mockito": "^2.6.1",
     "ts-node": "^8.10.2",
